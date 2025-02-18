@@ -13,6 +13,13 @@ header {
     position: relative;
 }
 
+.logo {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    height: 40px; /* Reducido para que sea más pequeño */
+}
+
 #congelar {
     position: absolute;
     top: 15px;
